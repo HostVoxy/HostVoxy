@@ -3,7 +3,7 @@
   <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - <a>Flatiron / Cybersecurity dryrun project</a>
-  - [Flatiron/ Solo SOC Project](https://docs.google.com/document/d/1HeYCnE3HTmbsHBCW8lvD71MCK66L0oujAhS-piR_1-U/edit?usp=sharing)
+  - [Flatiron/ Solo SOC Project](https://docs.google.com/document/d/e/2PACX-1vTBfXdBaYD9EKLrub9JQ-QwGq6qAciCbabrkyo3n7ZQNJPXbRAY_J4Gm5CVp___wBvXsJd2wfxwyuFX/pub?embedded=true)
   
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/ Honeynet in Azure](https://github.com/HostVoxy/Azure-SOC)
