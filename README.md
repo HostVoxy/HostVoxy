@@ -8,26 +8,13 @@
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/ Honeynet in Azure](https://github.com/HostVoxy/Azure-SOC)
   
-  
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - 
-
-<h2>📺 Popular YouTube Videos</h2>
+ 
+---------------------------------------------------------------------------------------------------------
 
 
 
 
+- 🔭 I’m currently working on creating cybersecurity projects and interpreting data to safegaurd our future!
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I speak Japanese.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
